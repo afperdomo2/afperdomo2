@@ -1,5 +1,5 @@
 # 💫 About Me:
-¡Hola! 👋 mi nombre es Andrés Felipe<br><br>💻Soy Desarrollador Web Fullstack, con + 6 años de experiencia<br>🎓Actualmente estoy realizando una Especialización en Desarrollo de Software<br>💡Me gusta leer, explorar, practicar y aprender sobre las nuevas tecnologías<br>✈️Mis pasatiempos son viajar, realizar turismo de naturaleza y practicar voleibol
+¡Hola! 👋 mi nombre es Andrés Felipe<br><br>💻Soy Desarrollador Web Fullstack, con + 6 años de experiencia<br>🎓Soy Ingeniero de Sistemas y Especialista en Desarrollo de Software<br>💡Me gusta leer, explorar, practicar y aprender sobre las nuevas tecnologías<br>✈️Mis pasatiempos son viajar, realizar turismo de naturaleza y practicar voleibol
 
 
 ## 🌐 Socials:
