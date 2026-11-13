@@ -1,15 +1,178 @@
-# 💫 About Me:
-¡Hola! 👋 mi nombre es Andrés Felipe<br><br>💻Soy Desarrollador Web Fullstack, con + 6 años de experiencia<br>🎓Soy Ingeniero de Sistemas y Especialista en Desarrollo de Software<br>💡Me gusta leer, explorar, practicar y aprender sobre las nuevas tecnologías<br>✈️Mis pasatiempos son viajar, realizar turismo de naturaleza y practicar voleibol
+<div align="right">
 
+🇪🇸 **Español** · [🇬🇧 English](README.en.md)
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://co.linkedin.com/in/afperdomo2/) 
+</div>
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=afperdomo2&theme=default&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=afperdomo2&theme=default&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=afperdomo2&theme=default&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0ea5e9&height=190&section=header&text=Andr%C3%A9s%20Felipe%20Perdomo&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Fullstack%20Engineer%20%C2%B7%20Go%20%C2%B7%20Vue%2FReact%20%C2%B7%20Flutter%20%C2%B7%20IA%20ag%C3%A9ntica&descSize=17&descAlignY=58&animation=fadeIn">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:1e3a8a&height=190&section=header&text=Andr%C3%A9s%20Felipe%20Perdomo&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Fullstack%20Engineer%20%C2%B7%20Go%20%C2%B7%20Vue%2FReact%20%C2%B7%20Flutter%20%C2%B7%20IA%20ag%C3%A9ntica&descSize=17&descAlignY=58&animation=fadeIn" alt="Andrés Felipe Perdomo — Fullstack Engineer" />
+</picture>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=0EA5E9&center=true&vCenter=true&width=700&height=45&lines=Fullstack%20Engineer;Microservicios%20%26%20Event-Driven;Go%20%C2%B7%20Java%20%C2%B7%20Node;Vue%20%C2%B7%20React%20%C2%B7%20Angular;Flutter%20%C2%B7%20Dart;IA%20ag%C3%A9ntica%20%26%20MCP" alt="Fullstack Engineer · Microservicios · Go · Java · Node · Vue · React · Angular · Flutter · IA agéntica" />
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-portfolio.afperdomo.cloud-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://portfolio.afperdomo.cloud/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-afperdomo2-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afperdomo2)
+[![GitHub](https://img.shields.io/badge/GitHub-afperdomo2-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/afperdomo2)
+
+📍 **Colombia** · 🟢 **Abierto a nuevas oportunidades**
+
+![Visitas](https://komarev.com/ghpvc/?username=afperdomo2&label=Visitas%20al%20perfil&color=0EA5E9&style=flat)
+
+</div>
+
+## 👋 Sobre mí
+
+- 💻 **Fullstack Engineer** con **+6 años** construyendo productos web, móviles y desktop en los sectores **salud, fintech, B2B y legaltech**.
+- 🎓 **Ingeniero de Sistemas** y **Especialista en Desarrollo de Software**.
+- 🏗️ Diseño y lidero arquitecturas: **microservicios, event-driven con Kafka, arquitecturas en capas y monorepos**.
+- 🤖 Hoy exploro **IA agéntica**: MCP, skills para agentes y herramientas propias como `opencode-tray` y `go-api-architecture-skill`.
+- ✈️ Fuera del código: viajar, turismo de naturaleza y voleibol.
+
+## 🚀 Proyectos destacados
+
+| Proyecto | Lo que demuestra | Stack |
+| :--- | :--- | :--- |
+| 🎟️ **[Vento App](https://github.com/afperdomo2/vento_app_monorepo)** | Plataforma de venta de tickets con 4 microservicios, **Saga coreografiada con Kafka** y observabilidad end-to-end | `Java 25` `Spring Boot 3.5` `Kafka` `Redis` `Elasticsearch` `Keycloak` `Angular 21` |
+| 🔨 **[NetSubastasGo](https://github.com/afperdomo2/NetSubastasGo)** | Sistema de subastas en tiempo real con pujas por WebSocket y microservicios desacoplados | `Go` `Gin` `gRPC` `Kafka` `PostgreSQL` `Redis` |
+| 🖥️ **[OpenCode Tray](https://github.com/afperdomo2/opencode-tray)** | App de bandeja multiplataforma que controla OpenCode: servicio, consumo y configuración | `Go` `Wails` `Vue` |
+| 🧰 **[DevStation](https://github.com/afperdomo2/dev-kit-manager)** | Detecta, instala y actualiza herramientas de desarrollo en Windows | `Rust` `Tauri` `React` `TypeScript` |
+| 📱 **[DevJobs](https://github.com/afperdomo2/devjobs)** | Seguimiento de postulaciones laborales con dashboard de métricas y backend serverless | `Flutter` `Dart` `Google Apps Script` |
+| 💪 **[FitTrackPro](https://github.com/afperdomo2/FitTrackProV2)** | Monorepo de seguimiento fitness con app web y móvil sobre el mismo backend | `Next.js 16` `React 19` `Expo` `Supabase` |
+
+> 🔒 También construí **GymFlow** (SaaS de gimnasios) y **OptiJus** (legaltech), de código privado.
+> 📸 Capturas, diagramas de arquitectura y el detalle técnico están en **[portfolio.afperdomo.cloud](https://portfolio.afperdomo.cloud/)**.
+
+## 🧱 Stack
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=go,java,spring,nodejs,nestjs,ts,js,vue,nuxt,react,nextjs,angular,flutter,dart,rust,php,laravel,python,postgres,mysql,mongodb,redis,elasticsearch,docker,kubernetes,nginx,aws,terraform,githubactions,linux,electron,tauri,supabase,prisma,graphql,kafka&theme=dark">
+  <img src="https://skillicons.dev/icons?i=go,java,spring,nodejs,nestjs,ts,js,vue,nuxt,react,nextjs,angular,flutter,dart,rust,php,laravel,python,postgres,mysql,mongodb,redis,elasticsearch,docker,kubernetes,nginx,aws,terraform,githubactions,linux,electron,tauri,supabase,prisma,graphql,kafka&theme=light" alt="Go, Java, Spring, Node.js, NestJS, TypeScript, JavaScript, Vue, Nuxt, React, Next.js, Angular, Flutter, Dart, Rust, PHP, Laravel, Python, PostgreSQL, MySQL, MongoDB, Redis, Elasticsearch, Docker, Kubernetes, Nginx, AWS, Terraform, GitHub Actions, Linux, Electron, Tauri, Supabase, Prisma, GraphQL, Kafka" />
+</picture>
+
+</div>
+
+<div align="center">
+
+<details>
+<summary><b>Backend</b></summary>
+<br/>
+
+`Go` · `Java 25 + Spring Boot` · `NestJS` · `Express` · `Fastify` · `Laravel` · `FastAPI` · `Rust`
+
+</details>
+
+<details>
+<summary><b>Frontend</b></summary>
+<br/>
+
+`Vue 3` · `Nuxt` · `React` · `Next.js` · `Angular` · `TypeScript` · `Tailwind CSS` · `PrimeVue` · `Vuetify` · `Quasar`
+
+</details>
+
+<details>
+<summary><b>Móvil y Desktop</b></summary>
+<br/>
+
+`Flutter` · `Dart` · `React Native (Expo)` · `Electron` · `Tauri` · `Wails`
+
+</details>
+
+<details>
+<summary><b>Bases de datos</b></summary>
+<br/>
+
+`PostgreSQL` · `MySQL` · `MariaDB` · `SQL Server` · `MongoDB` · `Redis` · `Elasticsearch` · `Prisma`
+
+</details>
+
+<details>
+<summary><b>APIs y mensajería</b></summary>
+<br/>
+
+`REST` · `GraphQL` · `gRPC` · `WebSockets` · `Kafka` · `JWT / OAuth2` · `Swagger / OpenAPI`
+
+</details>
+
+<details>
+<summary><b>Infraestructura y DevOps</b></summary>
+<br/>
+
+`Docker` · `Docker Compose` · `Kubernetes` · `Nginx` · `GitHub Actions` · `Terraform` · `AWS` · `Dokploy` · `Linux`
+
+</details>
+
+<details>
+<summary><b>IA y productividad</b></summary>
+<br/>
+
+`OpenCode` · `MCP` · `Prompt Engineering` · `Skills para agentes` · `GitHub Copilot` · `Git` · `Scrum / Kanban` · `Jira`
+
+</details>
+
+</div>
+
+## 💼 Experiencia
+
+| Periodo | Rol | Empresa | Enfoque |
+| :--- | :--- | :--- | :--- |
+| Dic 2022 – Jul 2025 | Fullstack Developer & **Tech Lead** | IT Management Zomac | Liderazgo técnico de equipos, arquitecturas escalables para Fintech y B2B, Node.js + TypeScript + Vue, Docker Compose y Scrum |
+| Mar 2021 – Dic 2022 | Desarrollador Independiente | IT Management Zomac | Migración crítica de PHP 5.3 a 8.1, plataforma HealthTech y telemedicina en tiempo real (WebRTC, Janus, STUN/TURN) |
+| Sep 2019 – Mar 2021 | Desarrollador Middle | IT Management Zomac | Aplicaciones con PHP, jQuery y PostgreSQL, administración de servidores Linux para producción |
+| Ene 2018 – Ago 2019 | Desarrollador de Software | Consultores Administrativos Integrales | Soluciones web con PHP y Bootstrap, automatización de reportes PDF y Excel |
+
+## 🎓 Certificaciones
+
+| Certificación | Emisor | Año |
+| :--- | :--- | :---: |
+| English Test — EF SET | EF Standard | 2026 |
+| IBM Applied AI | IBM | 2024 |
+| Chatbot Building Essentials | Coursera | 2024 |
+| Análisis Visual de Datos | CESA | 2023 |
+| Diplomado en Seguridad Informática | UCC | 2015 |
+| Sun Certified Associate for Java Platform | Sun Microsystems | 2010 |
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=afperdomo2&theme=github_dark">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=afperdomo2&theme=default" alt="Estadísticas de GitHub de afperdomo2" height="200" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=afperdomo2&theme=github_dark">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=afperdomo2&theme=default" alt="Lenguajes más usados en los repositorios de afperdomo2" height="200" />
+</picture>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=afperdomo2&theme=github-dark&hide_border=true&locale=es">
+  <img src="https://streak-stats.demolab.com?user=afperdomo2&theme=default&hide_border=true&locale=es" alt="Racha de contribuciones de afperdomo2" />
+</picture>
+
+</div>
+
+## 🤝 Contacto
+
+¿Trabajamos juntos o quieres conversar sobre arquitectura, Go o IA agéntica?
+
+La mejor forma de contactarme es por **LinkedIn** — respondo rápido por ahí.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-afperdomo2-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afperdomo2)
+[![Portfolio](https://img.shields.io/badge/Portfolio-portfolio.afperdomo.cloud-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://portfolio.afperdomo.cloud/)
+
+<div align="center">
+
+---
+
+<sub>⭐ Si algún proyecto te resulta útil, déjale una estrella — ayuda mucho.</sub>
+
+</div>
