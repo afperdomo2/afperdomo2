@@ -33,20 +33,6 @@
 - 🤖 Hoy exploro **IA agéntica**: MCP, skills para agentes y herramientas propias como `opencode-tray` y `go-api-architecture-skill`.
 - ✈️ Fuera del código: viajar, turismo de naturaleza y voleibol.
 
-## 🚀 Proyectos destacados
-
-| Proyecto | Lo que demuestra | Stack |
-| :--- | :--- | :--- |
-| 🎟️ **[Vento App](https://github.com/afperdomo2/vento_app_monorepo)** | Plataforma de venta de tickets con 4 microservicios, **Saga coreografiada con Kafka** y observabilidad end-to-end | `Java 25` `Spring Boot 3.5` `Kafka` `Redis` `Elasticsearch` `Keycloak` `Angular 21` |
-| 🔨 **[NetSubastasGo](https://github.com/afperdomo2/NetSubastasGo)** | Sistema de subastas en tiempo real con pujas por WebSocket y microservicios desacoplados | `Go` `Gin` `gRPC` `Kafka` `PostgreSQL` `Redis` |
-| 🖥️ **[OpenCode Tray](https://github.com/afperdomo2/opencode-tray)** | App de bandeja multiplataforma que controla OpenCode: servicio, consumo y configuración | `Go` `Wails` `Vue` |
-| 🧰 **[DevStation](https://github.com/afperdomo2/dev-kit-manager)** | Detecta, instala y actualiza herramientas de desarrollo en Windows | `Rust` `Tauri` `React` `TypeScript` |
-| 📱 **[DevJobs](https://github.com/afperdomo2/devjobs)** | Seguimiento de postulaciones laborales con dashboard de métricas y backend serverless | `Flutter` `Dart` `Google Apps Script` |
-| 💪 **[FitTrackPro](https://github.com/afperdomo2/FitTrackProV2)** | Monorepo de seguimiento fitness con app web y móvil sobre el mismo backend | `Next.js 16` `React 19` `Expo` `Supabase` |
-
-> 🔒 También construí **GymFlow** (SaaS de gimnasios) y **OptiJus** (legaltech), de código privado.
-> 📸 Capturas, diagramas de arquitectura y el detalle técnico están en **[portfolio.afperdomo.cloud](https://portfolio.afperdomo.cloud/)**.
-
 ## 🧱 Stack
 
 <div align="center">
@@ -117,6 +103,28 @@
 </details>
 
 </div>
+
+## 🚀 Proyectos
+
+| Proyecto | Qué demuestra | Stack |
+| :--- | :--- | :--- |
+| 🎟️ **[Vento App](https://github.com/afperdomo2/vento_app_monorepo)** | Plataforma de tickets con 4 microservicios, **Saga coreografiada con Kafka** y observabilidad end-to-end | `Java 25` `Spring Boot 3.5` `Kafka` `Redis` `Elasticsearch` `Keycloak` `Angular 21` |
+| 🏋️ **GymFlow** | SaaS de gestión de gimnasios: membresías, cupones, reportes y roles | `Nuxt 4` `Vue 3` `Prisma` `PostgreSQL` `Tailwind` |
+| ⚖️ **OptiJus** | Generación masiva de autos y oficios judiciales con lógica legal compleja | `Electron` `Vue 3` `Node.js` `docx` |
+| 🏪 **[BodegaTech](https://github.com/afperdomo2/bodegatech)** | API REST para operaciones de bodega con arquitectura modular por dominio, RFC 9457 y archivos en S3 | `Java 25` `Spring Boot 4` `PostgreSQL` `AWS S3` `Docker` |
+| 🧪 **[DevTest API](https://github.com/afperdomo2/dev-test-api)** | Monorepo fullstack: API en Go, SPA en Vue 3 y app móvil en React Native sobre contratos TypeScript compartidos | `Go` `Gin` `Vue 3` `React Native` `PostgreSQL` `JWT` |
+| 🔨 **[NetSubastasGo](https://github.com/afperdomo2/NetSubastasGo)** | Subastas en tiempo real con pujas por WebSocket y microservicios desacoplados | `Go` `Gin` `gRPC` `Kafka` `PostgreSQL` `Redis` |
+| 🐾 **[MyPets](https://github.com/afperdomo2/my_pets_monorepo)** | Monorepo de gestión de mascotas con API en Go y frontend Vue, integrado con CI | `Go` `Gin` `GORM` `Vue 3` `TypeScript` `GitHub Actions` |
+| ⏱️ **[CodeClock](https://github.com/afperdomo2/code_clock_monorepo)** | Seguimiento de tiempo por proyecto; monorepo orquestado con Nx | `Nx` `NestJS` `Vue 3` `Prisma` `PostgreSQL` |
+| 🖥️ **[OpenCode Tray](https://github.com/afperdomo2/opencode-tray)** | App de bandeja multiplataforma que controla OpenCode: servicio, consumo y configuración | `Go` `Wails` `Vue` |
+| 🧰 **[DevStation](https://github.com/afperdomo2/dev-kit-manager)** | Detecta, instala y actualiza herramientas de desarrollo en Windows | `Rust` `Tauri` `React` `TypeScript` |
+| 📱 **[DevJobs](https://github.com/afperdomo2/devjobs)** | Seguimiento de postulaciones laborales con dashboard de métricas y backend serverless | `Flutter` `Dart` `Google Apps Script` |
+| 💪 **[FitTrackPro](https://github.com/afperdomo2/FitTrackProV2)** | Monorepo de seguimiento fitness con app web y móvil sobre el mismo backend | `Next.js 16` `React 19` `Expo` `Supabase` |
+| 🚗 **[MotorCheck](https://github.com/afperdomo2/motorcheck)** | Mantenimiento vehicular local-first: vehículos, costos por ítem, recordatorios y documentos | `Flutter` `Dart` `SQLite` |
+| 🎥 **[Platzi Cinema Mode](https://github.com/afperdomo2/platzi-cinema-chrome-extension)** | Extensión publicada en Chrome Web Store que convierte el reproductor de Platzi en modo cine | `JavaScript` `CSS` `Chrome Extensions` |
+| 💸 **Parti Gasto** | Gastos compartidos con algoritmo de liquidación que minimiza transferencias | `Flutter` `Riverpod` `SQLite` `GoRouter` |
+
+> 🔒 Los proyectos **sin enlace** son de código privado; capturas y detalle técnico están en **[portfolio.afperdomo.cloud](https://portfolio.afperdomo.cloud/)**.
 
 ## 💼 Experiencia
 
